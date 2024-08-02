@@ -13,7 +13,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nic0uu&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/nic0uu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nic0uu&show_icons=true&theme=tokyonight&line_height=27" alt="Nic0uu's github stats"/>
 </a>
 
