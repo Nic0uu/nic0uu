@@ -1,7 +1,7 @@
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nicolás Benetti</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/nic0uu?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/nic0uu?style=social) <img src="https://komarev.com/ghpvc/?username=nic0uu" alt="nic0uu" />
+![GitHub followers](https://img.shields.io/github/followers/Nic0uu?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Nic0uu?style=social) <img src="https://komarev.com/ghpvc/?username=Nic0uu" alt="Nic0uu" />
 
 ## About Me :
 
@@ -9,12 +9,12 @@
 
 ### Github Activity ✔:
 
-<a href="https://github.com/nic0uu">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nic0uu&theme=tokyonight" />
+<a href="https://github.com/Nic0uu">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nic0uu&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/nic0uu">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nic0uu&show_icons=true&theme=tokyonight&line_height=27" alt="Nic0uu's github stats"/>
+<a href="https://github.com/Nic0uu">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nic0uu&show_icons=true&theme=tokyonight&line_height=27" alt="Nic0uu's github stats"/>
 </a>
 
 <br/>
@@ -36,7 +36,7 @@
 [comment]: <> (Extend trophies)
 <details>
 <summary align="left">Trophies :trophy:</summary>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nic0uu&amp;theme=dracula" alt="nic0uu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nic0uu&amp;theme=dracula" alt="Nic0uu" /></a> </p>
 </details>
 
 ---
