@@ -3,18 +3,18 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Nic0uu?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Nic0uu?style=social) <img src="https://komarev.com/ghpvc/?username=Nic0uu" alt="Nic0uu" />
 
-## About Me :
+# About Me :
+- 🏡Lives in **Buenos Aires, Argentina.**
+- I'm 15 years old.
 
-- 🏡Lives in **Buenos Aires, Argentina**
-
-### Github Activity :
+## Github Activity :
 
 <a href="https://github.com/Nic0uu">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nic0uu&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nic0uu&theme=dark" />
   </a>
 
 <a href="https://github.com/Nic0uu">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nic0uu&show_icons=true&theme=tokyonight&line_height=27" alt="Nic0uu's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nic0uu&show_icons=true&theme=dark&line_height=27" alt="Nic0uu's github stats"/>
 </a>
 
 <br/>
