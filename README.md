@@ -7,7 +7,23 @@
 
 - 🏡Lives in **Buenos Aires, Argentina**
 
+### Github Activity ✔:
+
+<a href="https://github.com/Davekibh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nic0uu&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/Davekibh">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nic0uu&show_icons=true&theme=tokyonight&line_height=27" alt="Nic0uu's github stats"/>
+</a>
+
+<br/>
+<br/>
+<br/>
+
+
 ---
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,7 +35,7 @@
 
 [comment]: <> (Extend trophies)
 <details>
-<summary align="left">:trophy: Trophies :trophy:</summary>
+<summary align="left">Trophies :trophy:</summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nic0uu&amp;theme=dracula" alt="nic0uu" /></a> </p>
 </details>
 
