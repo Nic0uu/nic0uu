@@ -7,7 +7,7 @@
 
 - 🏡Lives in **Buenos Aires, Argentina**
 
-### Github Activity ✔:
+### Github Activity :
 
 <a href="https://github.com/Nic0uu">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nic0uu&theme=tokyonight" />
@@ -20,7 +20,6 @@
 <br/>
 <br/>
 <br/>
-
 
 ---
 
